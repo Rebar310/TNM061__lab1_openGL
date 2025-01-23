@@ -1,0 +1,12 @@
+C:/Users/rebec/Datagrafik-labbar/build/CMakeFiles/tnm061-lab1.dir
+C:/Users/rebec/Datagrafik-labbar/build/CMakeFiles/INSTALL.dir
+C:/Users/rebec/Datagrafik-labbar/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/rebec/Datagrafik-labbar/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/rebec/Datagrafik-labbar/build/glfw-3.3.2/CMakeFiles/uninstall.dir
+C:/Users/rebec/Datagrafik-labbar/build/glfw-3.3.2/CMakeFiles/INSTALL.dir
+C:/Users/rebec/Datagrafik-labbar/build/glfw-3.3.2/CMakeFiles/ALL_BUILD.dir
+C:/Users/rebec/Datagrafik-labbar/build/glfw-3.3.2/src/CMakeFiles/glfw.dir
+C:/Users/rebec/Datagrafik-labbar/build/glfw-3.3.2/src/CMakeFiles/INSTALL.dir
+C:/Users/rebec/Datagrafik-labbar/build/glew/CMakeFiles/GLEW.dir
+C:/Users/rebec/Datagrafik-labbar/build/glew/CMakeFiles/INSTALL.dir
+C:/Users/rebec/Datagrafik-labbar/build/glew/CMakeFiles/ALL_BUILD.dir

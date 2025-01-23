@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\glew\src\glew.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\glew\include\GL\eglew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\glew\include\GL\glew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\glew\include\GL\glxew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\glew\include\GL\wglew.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\glew\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{23DD64C3-0D7A-3443-A9C7-23C4AD0DED04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6FA19D2A-C148-3A1D-91CF-4C892392FCAC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

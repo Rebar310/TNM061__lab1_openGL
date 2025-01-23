@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\glstack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\util\MatrixStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\util\Rotator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\util\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\util\Texture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\util\tnm061.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\util\TriangleSoup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\util\TriangleSoup.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\util\MatrixStack.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\util\Rotator.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\util\Shader.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\util\Texture.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\util\tnm061.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{23DD64C3-0D7A-3443-A9C7-23C4AD0DED04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6FA19D2A-C148-3A1D-91CF-4C892392FCAC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\rebec\Datagrafik-labbar\build\CMakeFiles\df0c89f5b19f60bb3cfaf08eaa0d347f\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\rebec\Datagrafik-labbar\lab1-GLstack\lab1-GLstack\glfw-3.3.2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\rebec\Datagrafik-labbar\build\glfw-3.3.2\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3F673B7E-FE54-3CFD-A8B7-8D5F303D4A6B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
