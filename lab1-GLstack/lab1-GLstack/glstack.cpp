@@ -213,6 +213,8 @@ int main() {
         const float time = (float)glfwGetTime();  // Needed later as well
         glUniform1f(location_time, time);
 
+        
+
         // Draw the scene
         modelViewStack.push();  // Save the initial, untouched matrix
 
